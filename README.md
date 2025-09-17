@@ -1,9 +1,5 @@
 <h1 align="center">Привет 👋, Меня зовут Алина</h1>
-<h3 align="center">Начинающий QA-инженер из Казани, ученица Школы 21</h3>
-
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5C77F7&center=true&vCenter=true&width=435&lines=QA+Engineer;Люблю+находить+баги+;Учу+Java+для+автоматизации" alt="Typing SVG" /></a>
-</p>
+<h3 align="center">Начинающий QA-инженер, ученица Школы 21</h3>
 
 ---
 
