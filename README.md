@@ -29,7 +29,7 @@
 
 Здесь показаны мои pet-проекты, которые демонстрируют мои навыки в тестировании.
 
-1.  **[checklists]()**  
+1.  **[checklists](https://github.com/KalitovaAlina/postman-collections)**  
     *Чек-листы и тест-кейсы для ручного тестирования веб-приложений.*  
     `Test Design` `Checklists` `Test Cases` `Markdown`
 
@@ -37,7 +37,7 @@
     *Примеры оформления баг-репортов с детальным описанием и скриншотами.*  
     `Bug Reports` `Markdown` `Screenshots`
 
-3.  **[postman-collections]()**  
+3.  **[postman-collections](https://github.com/KalitovaAlina/postman-collections)**  
     *Коллекции запросов для тестирования REST API в Postman.*  
     `Postman` `REST API` `HTTP` `JSON`
 ---
