@@ -33,7 +33,7 @@
     *Чек-листы и тест-кейсы для ручного тестирования веб-приложений.*  
     `Test Design` `Checklists` `Test Cases` `Markdown`
 
-2.  **[bug-reports]()**  
+2.  **[bug-reports](https://github.com/KalitovaAlina/bug-reports)**  
     *Примеры оформления баг-репортов с детальным описанием и скриншотами.*  
     `Bug Reports` `Markdown` `Screenshots`
 
